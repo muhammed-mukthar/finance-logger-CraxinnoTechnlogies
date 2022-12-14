@@ -1,0 +1,21 @@
+
+.month{
+    display: inline;
+    
+}
+input{
+    margin-left: 12px;
+}
+p{
+    font-weight: bold;
+}
+.charhere{
+    width: 80%;
+}
+@media only screen and (max-width: 600px) {
+    .charhere{
+        width: 100%;
+        height: 100%;
+    }
+    
+  }
